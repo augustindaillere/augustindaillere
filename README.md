@@ -8,10 +8,22 @@
 ---
 
 ### 🧰 Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github,vscode" />
-</p>
+ 
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br />HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br />CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br />JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br />TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" /><br />PHP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br />MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br />Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br />GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br />VS Code</td>
+  </tr>
+</table>
 
 ### 📊 Statistiques
 
